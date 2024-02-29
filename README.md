@@ -49,7 +49,7 @@
 
  -  Run the tool
     ```
-    python main.py
+    python tts.py
     ```
 ##### Using the program
  1.  Have an input audio file named input.mp3 containing your prompt.
